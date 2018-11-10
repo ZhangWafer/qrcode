@@ -1,0 +1,11 @@
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\bin\Debug\qrcode.exe.config
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\bin\Debug\qrcode.exe
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\bin\Debug\qrcode.pdb
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\bin\Debug\zxing.dll
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\bin\Debug\zxing.pdb
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\obj\Debug\qrcode.csprojResolveAssemblyReference.cache
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\obj\Debug\qrcode.Form1.resources
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\obj\Debug\qrcode.Properties.Resources.resources
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\obj\Debug\qrcode.csproj.GenerateResource.Cache
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\obj\Debug\qrcode.exe
+E:\SVN目录\贴片机\oracleData\qrcode\qrcode\obj\Debug\qrcode.pdb
